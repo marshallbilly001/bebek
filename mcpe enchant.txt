@@ -1,0 +1,333 @@
+My friend told me that there was an open ambassador at Mind Network.
+I was interested in joining Mind Network as an ambassador because I wanted to contribute to the project and try to make a significant impact on Mind Network by my presence, to showcase my performance and my efforts.
+I am a freelancer working in marketing, design and management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Aqua Affinity (Afinitas Air)
+Level Maks. : I
+Fungsi : Mempercepat menambang blok di bawah air.
+
+2. Bane of Arthropods (Kutukan Artropoda)
+Level Maks. : V
+Fungsi : Meningkatkan kerusakan serangan terhadap laba-laba, laba-laba gua, lebah, endermite, dan silverfish.
+
+3. Blast Protection (Perlindungan Ledakan)
+Level Maks. : IV
+Fungsi : Mengurangi kerusakan dari ledakan seperti tnt, creeper, ender crystal, wither, dan serangan ghast.
+
+4. Channeling (Penyaluran)
+Level Maks. : I
+Fungsi : Memunculkan petir saat trident dilempar dan mengenai mobs atau pemain (Hanya dapat dilakukan saat cuaca badai petir).
+
+5. Curse of Binding (Kutukan Mengikat)
+Level Maks. : I
+Fungsi : Membuat item yang sudah terpasang pada pemain tidak dapat terhapus sampai item tersebut rusak atau pemain mati.
+
+6. Curse of Vanishing (Kutukan Menghilang)
+Level Maks. : I
+Fungsi : Mengilangkan item yang digunakan atau dalam inventory saat pemain mati.
+
+7. Depth Strider (Penjelajah Kedalaman)
+Level Maks. : III
+Fungsi : Mempercepat gerak dalam air.
+
+8. Efficiency (Efisiensi)
+Level Maks. : V
+Fungsi : Mempercepat dalam proses menambang blok.
+
+9. Feather Falling (Jatuh Seperti Bulu)
+Level Maks. : IV
+Fungsi : Mengurangi kerusakan ketika jatuh dan akibat teleportasi mutiara ender.
+
+10. Fire Aspect (Aspek Api)
+Level Maks. : II
+Fungsi : Membakar target yang diserang menggunakan pedang.
+
+11. Fire Protection (Perlindungan Api)
+Level Maks. : IV
+Fungsi : Mengurangi kerusakan akibat api dan lava.
+
+12. Flame (Api)
+Level Maks. : I
+Fungsi : Menciptakan panah yang terbakar saat ditembakan dari busur dan akan membakar mobs atau pemain yang dikenainya.
+
+13. Fortune (Keberuntungan)
+Level Maks. : III
+Fungsi : Meningkatkan pendapatan sumber daya dari menambang blok seperti lebih sering mendapatkan flint dari gravel atau apel dari pohon.
+
+14. Frost Walker (Pejalan Es)
+Level Maks. : II
+Fungsi : Membekukan air di sekitar untuk sementara waktu dan membantu dalam berjalan di atas blok magma dengan aman.
+
+15. Impaling (Penusukan)
+Level Maks. : V
+Fungsi : Meningkatkan kerusakan serangan terhadap monster laut seperti guardian, elder guardian, cumi-cumi, lumba-lumba, dan kura-kura.
+
+16. Infinity (Tak Terbatas)
+Level Maks. : I
+Fungsi : Membuat panah tak terbatas untuk ditembakan dengan busur tapi setidaknya menyimpan satu panah di inventory.
+
+17. Knockback (Pukul Mundur)
+Level Maks. : II
+Fungsi : Meningkatkan efek knockback yang diberikan saat menyerang mobs atau pemain.
+
+18. Looting (Penjarahan)
+Level Maks. : III
+Fungsi : Meningkatkan jumlah item yang dijatuhkan saat mengalahkan mobs.
+
+19. Loyalty (Loyalitas)
+Level Maks. : III
+Fungsi : Membuat trident yang dilempar dapat kembali secara otomatis.
+
+20. Luck of the Sea (Keberuntungan Laut)
+Level Maks. : III
+Fungsi : Meningkatkan peluang mendapatkan barang berharga saat memancing.
+
+21. Lure (Pancing)
+Level Maks. : III
+Fungsi : Meningkatkan kecepatan kail pancing disambar.
+
+22. Mending (Perbaikan)
+Level Maks. : I
+Fungsi : Memperbaiki item secara otomatis menggunakan xp yang didapatkan.
+
+23. Multishot (Tembakan Beruntun)
+Level Maks. : I
+Fungsi : Menembakan 3 panah sekaligus dengan hanya 1 panah yang digunakan.
+
+24. Piercing (Tajam)
+Level Maks. : IV
+Fungsi : Membuat panah yang ditembakan dari busur silang dapat mengenai target dibelakangnya secara garis lurus.
+
+25. Power (Kekuatan)
+Level Maks. : V
+Fungsi : Meningkatkan kerusakan serangan busur.
+26. Projectile Protection (Perlindungan Proyektil)
+Level Maks. : IV
+Fungsi : Mengurangi kerusakan dari serangan proyektil seperti panah, bola api ghast, dan blaze.
+
+27. Protection (Perlindungan)
+Level Maks. : IV
+Fungsi : Memberikan perlindungan terhadap segala jenis kerusakan seperti serangan, api, lava, dan jatuh.
+
+28. Punch (Tinjuan)
+Level Maks. : II
+Fungsi : Membuat knockback pada mobs atau pemain yang diserang menggunakan busur.
+
+29. Quick Charge (Isi Cepat)
+Level Maks. : III
+Fungsi : Mengurangi waktu untuk memuat ulang busur silang.
+
+30. Respiration (Penapasan)
+Level Maks. : III
+Fungsi : Memperpanjang durasi bernapas dalam air.
+
+31. Riptide (Gelombang Pasang)
+Level Maks. : III
+Fungsi : Mengikuti atau menteleport sesuai dengan arah target trident dilempar (Hanya dapat dilakukan saat berada di air).
+
+32. Sharpness (Ketajaman)
+Level Maks. : V
+Fungsi : Meningkatkan kerusakan serangan yang diberikan terhadap target.
+
+33. Silk Touch (Sentuhan Sutra)
+Level Maks. : I
+Fungsi : Membuat menambang atau mengumpulkan blok menjadi blok yang utuh seperti untuk mengambil sarang lebah, diamond ore, blue ice, dsb.
+
+34. Smite (Pukul)
+Level Maks. : V
+Fungsi : Meningkatkan serangan terhadap mobs undead seperti skeleton, wither skeleton, zombie, zombie piglin, drowned, dan wither.
+
+35. Soul Speed (Kecepatan Jiwa)
+Level Maks. : III
+Fungsi : Membuat gerak lebih cepat di soul sand dan soul soil.
+
+36. Thorns (Duri)
+Level Maks. : III
+Fungsi : Memberikan kerusakan terhadap mobs atau pemain yang menyerang.
+
+37. Unbreaking (Tak Terpatahkan)
+Level Maks. : III
+Fungsi : Meningkatkan durability dari item.
+
+Daftar Item dan Enchant yang Dapat Ditambahkan
+
+Sword
+Bane of Arthropods
+Curse of Vanishing
+Fire Aspect
+Knockback
+Looting
+Mending
+Sharpness
+Smite
+Unbreaking
+
+Axe
+Bane of Arthropods
+Curse of Vanishing
+Efficiency
+Fortune
+Mending
+Sharpness
+Silk Touch
+Smite
+Unbreaking
+
+Bow
+Curse of Vanishing
+Flame
+Infinity
+Mending
+Power
+Punch
+Unbreaking
+
+Crossbow
+Curse of Vanishing
+Mending
+Multishot
+Piercing
+Quick Charge
+Unbreaking
+
+Trident
+Channeling
+Curse of Vanishing
+Impailing
+Loyalty
+Mending
+Riptide
+Unbreaking
+
+Hoe, Shovel, & Pickaxe
+Curse of Vanishing
+Efficiency
+Fortune
+Mending
+Silk Touch
+Unbreaking
+
+Shears
+Curse of Vanishing
+Efficiency
+Mending
+Silk Touch
+Unbreaking
+
+Chestplate & Leggings
+Blast Protection
+Curse of Binding
+Curse of Vanishing
+Fire Protection
+Mending
+Projectile Protection
+Protection
+Thorns
+Unbreaking
+
+Helmet
+Aqua Affinity
+Blast Protection
+Curse of Binding
+Curse of Vanishing
+Fire Protection
+Mending
+Projectile Protection
+Protection
+Respiration
+Thorns
+Unbreaking
+
+Boots
+Blast Protection
+Curse of Binding
+Curse of Vanishing
+Depth Strider
+Feather Falling
+Fire Protection
+Frost Walker
+Mending
+Projectile Protection
+Protection
+Soul Speed
+Thorns
+Unbreaking
+
+Fishing Rod
+Curse of Vanishing
+Luck of the Sea
+Lure 
+Mending
+Unbreaking
+
+Carrot & Warped Fungus on a Stick
+Curse of Vanishing
+Mending
+Unbreaking
+
+Elytra
+Curse of Binding
+Curse of Vanishing
+Mending
+Unbreaking
+
+Sheild
+Curse of Vanishing
+Mending
+Unbreaking
+
+Compass
+Curse of Vanishing
+
+Pumpkin & Mob Head
+Curse of binding
+Curse of Vanishing
+
+Catatan ada beberapa enchant yang tidak dapat diterapkan secara bersamaan pada satu item, seperti :
+
+Riptide dan Loyalty (Trident),
+Silk Touch dan Fortune (Tool),
+Multishot dan Piercing (Crossbow),
+Mending dan Infinity (Bow),
+Depth Strider dan Frost Walker (Boots),
+Smite, Bane of Arthropods, dan Sharpness (Sword), serta
+Protection, Blast Protection, Fire Protection, dan Projectile
+Protection (Armor).
+
+Namun untuk semua efek protection, jika kamu ingin tetap mendapatkan semua efeknya.Kamu dapat menerapkanya satu per satu pada armor yang digunakan.Contoh protection diterapkan pada helmet, blast protection pada chestplate, fire protection pada leggings, dan projectile protection pada boots.
